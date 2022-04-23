@@ -387,6 +387,11 @@ h2 {
     align-items: center;
 }
 
+.flex-container2 img {
+    max-width: 100%;
+    height: auto;
+}
+
 .divider {
     background-color: rgb(218, 216, 216);
     width: 80%;
